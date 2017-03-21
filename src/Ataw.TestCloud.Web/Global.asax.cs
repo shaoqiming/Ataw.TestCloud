@@ -11,8 +11,8 @@ namespace Ataw.TestCloud.Web
     {
         protected void Application_Start()
         {
-            AreaRegistration.RegisterAllAreas();
-            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            //AreaRegistration.RegisterAllAreas();
+            //RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
     }
 }

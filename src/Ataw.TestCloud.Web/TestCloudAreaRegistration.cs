@@ -20,10 +20,9 @@ namespace Ataw.TestCloud.Web
         {
             context.MapRoute(
               "TestCloud_default",
-              "RightCloud/{controller}/{action}/{id}",
-              new { controller = "UI", action = "Home", id = UrlParameter.Optional },
-                new[] { "Ataw.RightCloud.Web", "Ataw.RightCloud.Web.Controllers" }
-
+              "TestCloud/{controller}/{action}/{id}",
+              new { controller = "TestPage", action = "Demo", id = UrlParameter.Optional },
+                new[] { "Ataw.TestCloud.Web", "Ataw.TestCloud.Web.Controllers" }
           );
         }
     }
