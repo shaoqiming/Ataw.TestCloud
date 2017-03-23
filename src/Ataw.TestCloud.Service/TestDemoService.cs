@@ -34,9 +34,9 @@ namespace Ataw.TestCloud.Service
                     _login.SendKeys("ataws");
                     _password.SendKeys("ataws");
 
-                    //btLogin
                     IWebElement _btLogin = driver.FindElement(By.Id("btLogin"));
                     _btLogin.Click();
+
                     TestCloudUtil.SendCommandFun(_userID, "登录中，加载中。。。。");
                     ScreenGFile(driver, "主页");
 

@@ -9,7 +9,7 @@ namespace Ataw.TestCloud.Core
 {
     public class TestCloudUtil
     {
-        public static void SendCommandFun(string userId, string line, string key="", string CmdName="")
+        public static void SendCommandFun(string userId, string line, string key = "", string CmdName = "")
         {
 
             if (CmdName.IsAkEmpty())
@@ -25,6 +25,12 @@ namespace Ataw.TestCloud.Core
             {
                 NodeServerPusher.SendCommand(new string[] { userId }, CmdName, new { Key = key, Value = line });
             }
+        }
+
+        //输出日记
+        public static void Log()
+        {
+
         }
     }
 }
