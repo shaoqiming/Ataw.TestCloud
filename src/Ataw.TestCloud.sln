@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Web", "src\Ataw.TestCloud.Web\Ataw.TestCloud.Web.csproj", "{3BDED2FB-972F-429F-B5A9-821C24D36304}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Web", "Ataw.TestCloud.Web\Ataw.TestCloud.Web.csproj", "{3BDED2FB-972F-429F-B5A9-821C24D36304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Service", "src\Ataw.TestCloud.Service\Ataw.TestCloud.Service.csproj", "{86B5A8D0-BF80-4C8B-8A33-32E1F8020E72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Service", "Ataw.TestCloud.Service\Ataw.TestCloud.Service.csproj", "{86B5A8D0-BF80-4C8B-8A33-32E1F8020E72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.BF", "src\Ataw.TestCloud.BF\Ataw.TestCloud.BF.csproj", "{CCF0F94F-6097-41FB-BD81-70C2942C00B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.BF", "Ataw.TestCloud.BF\Ataw.TestCloud.BF.csproj", "{CCF0F94F-6097-41FB-BD81-70C2942C00B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.DA", "src\Ataw.TestCloud.DA\Ataw.TestCloud.DA.csproj", "{D50F6FD2-35B3-481D-BDD3-6D6AEF7AEE74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.DA", "Ataw.TestCloud.DA\Ataw.TestCloud.DA.csproj", "{D50F6FD2-35B3-481D-BDD3-6D6AEF7AEE74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.DB", "src\Ataw.TestCloud.DB\Ataw.TestCloud.DB.csproj", "{F4724646-E9C2-4E09-AFB5-D4EBA117A015}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.DB", "Ataw.TestCloud.DB\Ataw.TestCloud.DB.csproj", "{F4724646-E9C2-4E09-AFB5-D4EBA117A015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Core", "src\Ataw.TestCloud.Core\Ataw.TestCloud.Core.csproj", "{C76A6D71-4410-44F5-95B5-FA70721FB5CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Core", "Ataw.TestCloud.Core\Ataw.TestCloud.Core.csproj", "{C76A6D71-4410-44F5-95B5-FA70721FB5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Plug", "src\Ataw.TestCloud.Plug\Ataw.TestCloud.Plug.csproj", "{085F7938-47A8-482D-AB44-3436869D3F64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Plug", "Ataw.TestCloud.Plug\Ataw.TestCloud.Plug.csproj", "{085F7938-47A8-482D-AB44-3436869D3F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Data", "src\Ataw.TestCloud.Data\Ataw.TestCloud.Data.csproj", "{5C8E859C-FE22-4B46-BD70-6B041462FB40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Data", "Ataw.TestCloud.Data\Ataw.TestCloud.Data.csproj", "{5C8E859C-FE22-4B46-BD70-6B041462FB40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Css", "src\Ataw.TestCloud.Css\Ataw.TestCloud.Css.csproj", "{F685BEC8-A60F-41C9-9229-002FFDDC2725}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataw.TestCloud.Css", "Ataw.TestCloud.Css\Ataw.TestCloud.Css.csproj", "{F685BEC8-A60F-41C9-9229-002FFDDC2725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
